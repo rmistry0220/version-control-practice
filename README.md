@@ -4,6 +4,8 @@ For in-class activity 10/28
 
 This is the README.md file. It uses the markdown language.
 
+this is part of edit 2
+
 Here is a list:
 
   + Item 1
